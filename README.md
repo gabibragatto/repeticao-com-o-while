@@ -4,9 +4,8 @@
 
 ##  **Sobre a atividade**
 
-Essa atividade foi feita para treinar minha lógica de programação usando JavaScript no navegador.  
+Essa atividade da matéria de lógica de programação e algoritmo foi realizada para a prática das estruturas de repetição nessa em especial o *while*, usando o aplicativo Visual Studio Code para elaboração dos códigos e testes no navegador
 
-O foco foi praticar repetição de um jeito bem direto e funcional.
 
 
 
@@ -21,6 +20,9 @@ O foco foi praticar repetição de um jeito bem direto e funcional.
 Aprendi e pratiquei principalmente:
 
 -  Estruturas de repetição (`while`)
+-  Pensamento lógico em repetições e linhas de código
+-  Estruturação em linhas de comando
+-  Comunicação simples e direta no README.md
 
 
 
@@ -111,3 +113,6 @@ O sistema encerra quando o saldo acaba.
 ## **Fechamento**
 
 Uma atividade importante pra fixar lógica de programação, utilizando o while para entender melhor as estruturas de repetições aprendidas na matéria de LOPAL!
+
+# **Autor**
+|Maria Gabriela Blanc Bragatto - turma I1HSC
