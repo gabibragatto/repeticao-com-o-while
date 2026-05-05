@@ -110,4 +110,4 @@ O sistema encerra quando o saldo acaba.
 
 ## **Fechamento**
 
-Uma atividade importante pra fixar lógica de programação.
+Uma atividade importante pra fixar lógica de programação, utilizando o while para entender melhor as estruturas de repetições aprendidas na matéria de LOPAL!
