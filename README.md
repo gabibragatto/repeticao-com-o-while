@@ -98,18 +98,6 @@ O sistema encerra quando o saldo acaba.
 
 
 
-##  **O que eu aprendi com isso**
-
-- Entender melhor como o `while` funciona na prática  
-
-- Melhorar minha organização no código  
-
-
-
----
-
-
-
 ## **Fechamento**
 
 Uma atividade importante pra fixar lógica de programação, utilizando o while para entender melhor as estruturas de repetições aprendidas na matéria de LOPAL!
